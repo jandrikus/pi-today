@@ -4,7 +4,7 @@
   "type": "module",
   "license": "Apache-2.0",
   "keywords": ["pi-package", "pi-extension", "date", "system-prompt"],
-  "description": "A pi extension that prepends today's date to the system prompt for new sessions",
+  "description": "A pi extension that adds today's date to the system prompt as a cache-stable section",
   "files": ["extensions"],
   "repository": {
     "type": "git",
